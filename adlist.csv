@@ -1,5 +1,7 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",1610882681
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",1610956273
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",
-3,https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/France.txt,1,1610646408,1610646408,,1610882683
-4,https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/EasyList-Liste-FR.txt,1,1610646441,1610646441,,1610882683
+5,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1610955872,1610955872,,1610956275
+6,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1610955884,1610955884,,1610956275
+7,https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt,1,1610955942,1610955942,,1610956276
+8,https://v.firebog.net/hosts/lists.php?type=tick,1,1610956251,1610956251,,1610956276
