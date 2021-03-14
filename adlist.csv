@@ -1,7 +1,7 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",1615086484
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",1615691284
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1608669891,1608669891,"Migrated from /etc/pihole/adlists.list",
 5,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1610955872,1610955872,,1610956275
 6,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1610955884,1610955884,,1610956275
-7,https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt,1,1610955942,1610955942,,1615086487
-8,https://v.firebog.net/hosts/lists.php?type=tick,1,1610956251,1610956251,,1615086487
+7,https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt,1,1610955942,1610955942,,1615691287
+8,https://v.firebog.net/hosts/lists.php?type=tick,1,1610956251,1610956251,,1615691288
